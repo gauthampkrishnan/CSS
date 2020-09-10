@@ -24,9 +24,7 @@
 .three{
     animation-timing-function: linear;
 }
-.three{
 
-}
 @keyframes bounce {
     0%{
         transform: scale(2);
