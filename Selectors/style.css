@@ -1,0 +1,31 @@
+* {
+    font-style: italic;
+}
+
+div{
+    color: red;
+}
+p{
+    color: orange;
+}
+
+.big{
+    font-size:10pt;
+}
+
+.bold{
+    font-weight: bold;
+    font-size:30pt;
+}
+
+#one{
+    background-color: orange;
+}
+
+input[disabled]{
+    font-size: 80pt;
+    
+}
+input[type="text"]{
+    height: 30px;
+}
